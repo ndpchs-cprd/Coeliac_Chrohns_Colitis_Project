@@ -1,0 +1,13 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a41137017	150985	Inflammatory bowel disease	b24526004
+a2269891000000116	1716	Management of inflammatory bowel disease	b700104004
+a2269901000000115	1241	Management of IBD (inflammatory bowel disease)	b700104004
+a2891431000006118	267	IBD - Inflammatory bowel disease	b24526004
+a2891431000006118	267	IBD - Inflammatory bowel disease	b24526004
+a2891431000006118	267	IBD - Inflammatory bowel disease	b24526004
+a233858100000011	130	Dietary education for inflammatory bowel disease	b909671000000101
+a7489581000006113	29	History of inflammatory bowel disease	b608844008
+a5139611000006114	11	Seronegative arthritis secondary to inflammatory bowel disease	b239814006
+a5139551000006114	5	Juvenile arthritis of inflammatory bowel disease	b239809007
+a6204981000006116	4	Idiopathic chronic inflammatory bowel disease	b359664009
+a13765011000006113	3	Arthritis due to inflammatory bowel disease	b9350004

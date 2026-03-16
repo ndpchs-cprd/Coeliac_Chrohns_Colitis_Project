@@ -1,0 +1,7 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a303051014	19454	Non-infective colitis NOS	b14066009
+a353407019	12405	Indeterminate colitis	b235746007
+a396366011	5587	Other non-infective gastroenteritis and colitis NOS	b25374005
+a302956014	2660	Ulcerative proctocolitis NOS	b295046003
+a302962016	1876	Idiopathic proctocolitis NOS	b64766004
+a302961011	265	Other idiopathic proctocolitis NOS	b418130002

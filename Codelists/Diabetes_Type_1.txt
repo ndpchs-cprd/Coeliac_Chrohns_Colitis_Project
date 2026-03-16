@@ -1,0 +1,89 @@
+MedCodeId	Observations	Term
+a197984010	2000000	Diabetes mellitus type 1
+a494564012	70000	Type I diabetes mellitus
+a1658861000000113	70000	Type I diabetic dietary review (regime/therapy)
+a84281000006115	30000	Type 1 diabetes mellitus
+a84651000006114	20000	Type I diabetes mellitus
+a616621000006115	10000	Type 1 diabetes mellitus without complication
+a928501000006119	10000	Ketoacidosis in type 1 diabetes mellitus
+a1780311019	3000	Type 1 diabetes mellitus with persistent microalbuminuria
+a928461000006119	3000	Persistent proteinuria due to type 1 diabetes mellitus
+a913661000006118	2000	Retinopathy with type 1 diabetes mellitus
+a913451000006117	2000	Type 1 diabetes mellitus with renal complications
+a292553010	1000	Type 1 diabetes mellitus maturity onset
+a616641000006110	1000	Ketoacidosis due to type 1 diabetes mellitus
+a292548017	1000	Type I diabetes mellitus uncontrolled
+a913841000006116	1000	Renal disorder associated with type 1 diabetes mellitus
+a913541000006118	900	Type 1 diabetes mellitus with multiple complications
+a84661000006111	700	Type I diabetes mellitus poorly controlled
+a928511000006116	600	Type I diabetes mellitus with ketoacidosis
+a84291000006117	600	Type 1 diabetes mellitus - poor control
+a928521000006112	500	Ketoacidotic coma in type 1 diabetes mellitus
+a2476117016	500	Maturity onset diabetes of the young, type 1 (disorder)
+a84741000006118	400	Type I diabetes mellitus with nephropathy
+a938301000006114	400	Exudative maculopathy due to type 1 diabetes mellitus
+a429971019	400	Unstable type 1 diabetes mellitus
+a457326014	400	Type 1 diabetes mellitus without complication
+a913481000006113	400	Type 1 diabetes mellitus with ophthalmic complications
+a1667941000000112	300	Type I diabetes mellitus with gastroparesis
+a84731000006111	300	Multiple complications of type 1 diabetes mellitus
+a459296014	200	Neuropathic arthropathy due to type 1 diabetes mellitus
+a84671000006116	200	Type I diabetes mellitus maturity onset
+a292541011	200	Gangrene due to type 1 diabetes mellitus
+a459161015	200	Type I diabetes mellitus with hypoglycemic coma
+a292540012	200	Type 1 diabetes mellitus with ulcer
+a84371000006110	200	Renal disorder due to type 1 diabetes mellitus
+a84761000006119	100	Type I diabetes mellitus with neuropathic arthropathy
+a913511000006117	100	Type 1 diabetes mellitus with neurological complications
+a928491000006110	90	Type I diabetes mellitus with persistent microalbuminuria
+a84401000006113	90	Disorder of eye due to type 1 diabetes mellitus
+a913811000006115	90	Type 1 diabetes mellitus with polyneuropathy
+a84811000006114	90	Type I diabetes mellitus with retinopathy
+a457325013	80	Type I diabetes mellitus without complication
+a616611000006111	80	Disorder due to type 1 diabetes mellitus
+a913671000006113	70	Type I diabetes mellitus with retinopathy
+a292551012	60	Type I diabetes mellitus maturity onset
+a84711000006117	60	Type I diabetes mellitus with hypoglycaemic coma
+a429970018	50	Brittle type I diabetes mellitus
+a292550013	50	Type I diabetes mellitus - poor control
+a84301000006116	50	Type 1 diabetes mellitus maturity onset
+a84801000006111	50	Type I diabetes mellitus with renal complications
+a7287611000006113	50	Type 1 diabetes mellitus uncontrolled
+a84431000006117	50	Type 1 diabetes mellitus with renal complications
+a84441000006110	40	Retinopathy due to type 1 diabetes mellitus
+a616651000006112	40	Ketoacidotic coma due to type 1 diabetes mellitus
+a14083901000006110	40	Persistent microalbuminuria due to type 1 diabetes mellitus
+a459292011	40	Arthropathy due to type 1 diabetes mellitus
+a616591000006117	30	Peripheral circulatory disorder due to type 1 diabetes mellitus
+a938311000006112	30	Type I diabetes mellitus with exudative maculopathy
+a14083741000006114	30	Ketoacidosis due to type 1 diabetes mellitus
+a14083781000006115	30	Persistent proteinuria due to type 1 diabetes mellitus
+a84451000006112	30	Type 1 diabetes mellitus with ulcer
+a459163017	30	Type I diabetes mellitus with hypoglycaemic coma
+a3253231000006110	30	Diabetes mellitus type I
+a913851000006119	20	Type I diabetes mellitus with nephropathy
+a84771000006114	20	Disorder of eye with type 1 diabetes mellitus
+a5754581000006110	20	Brittle type 1 diabetes mellitus
+a8006221000006115	20	Microalbuminuria due to type 1 diabetes mellitus
+a84691000006115	20	Cataract due to diabetes mellitus type 1
+a3253241000006117	20	Diabetes mellitus type 1
+a292482014	20	Hyperosmolar coma due to type 1 diabetes mellitus
+a913461000006115	20	Type I diabetes mellitus with renal complications
+a459294012	20	Type I diabetes mellitus with arthropathy
+a913931000006116	20	Type 1 diabetes mellitus with peripheral angiopathy
+a913901000006112	20	Type 1 diabetes mellitus with diabetic cataract
+a84821000006118	20	Type I diabetes mellitus with ulcer
+a84341000006119	20	Type 1 diabetes mellitus with hypoglycaemic coma
+a84381000006113	20	Disorder of nervous system due to type 1 diabetes mellitus
+a72711000006117	20	Unstable type 1 diabetes mellitus
+a72721000006113	10	Unstable type I diabetes mellitus
+a292543014	10	Type I diabetes mellitus with gangrene
+a913551000006116	10	Type I diabetes mellitus with multiple complications
+a84421000006115	10	Polyneuropathy due to type 1 diabetes mellitus
+a84701000006115	10	Type I diabetes mellitus with gangrene
+a84321000006114	10	Cataract of eye due to diabetes mellitus type 1
+a928471000006114	10	Type I diabetes mellitus with persistent proteinuria
+a84311000006118	10	Type 1 diabetes mellitus with arthropathy
+a84461000006114	10	Type 1 diabetes mellitus without complication
+a84361000006115	10	Multiple complications due to type 1 diabetes mellitus
+a913781000006117	10	Type 1 diabetes mellitus with mononeuropathy
