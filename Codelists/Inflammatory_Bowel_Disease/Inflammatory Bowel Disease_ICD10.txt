@@ -1,0 +1,3 @@
+Code	Description
+K52.9	Noninfective gastroenteritis and colitis, unspecified
+K52.89	Other specified noninfective gastroenteritis and colitis

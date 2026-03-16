@@ -1,0 +1,3 @@
+Code	Description
+DD7Z	Inflammatory bowel diseases, unspecified
+DD7Y	Other specified inflammatory bowel diseases
