@@ -1,0 +1,7 @@
+Code	Description
+K52.83	Microscopic colitis
+K52.831	Collagenous colitis
+K52.832	Lymphocytic colitis
+K52.838	Other microscopic colitis
+K52.839	Microscopic colitis, unspecified
+K52.89	Other specified noninfective gastroenteritis

@@ -1,0 +1,5 @@
+Code	Description
+DD71.0	Lymphocytic colitis
+DD71.1	Collagenous colitis
+DD71.Y	Other specified microscopic colitis
+DD71.Z	Microscopic colitis, unspecified
