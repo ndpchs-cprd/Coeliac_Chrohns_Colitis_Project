@@ -1,0 +1,8 @@
+Code	Description
+5A03.20	Hashimoto thyroiditis
+5A02.00	Graves disease
+5A02.01	Graves disease with thyroid storm
+5A03.21	Painless thyroiditis
+5A00.22	Atrophic autoimmune thyroiditis
+9E06.31	Thyroid-associated orbitopathy
+5A03.2Z	Autoimmune thyroiditis, unspecified

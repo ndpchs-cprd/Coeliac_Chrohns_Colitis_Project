@@ -1,0 +1,8 @@
+Code	Description
+E06.3	Autoimmune thyroiditis
+E05.00	Thyrotoxicosis with diffuse goiter without crisis
+E05.01	Thyrotoxicosis with diffuse goiter with crisis
+E03.8	Other specified hypothyroidism
+H05.81	Thyroid orbitopathy
+L91.8	Other hypertrophic disorders of the skin
+E06.5	Other chronic thyroiditis
