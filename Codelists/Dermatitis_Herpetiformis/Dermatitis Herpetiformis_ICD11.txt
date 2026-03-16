@@ -1,0 +1,3 @@
+Code	Description
+EB44	Dermatitis herpetiformis
+EB45	Juvenile dermatitis herpetiformis
