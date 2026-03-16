@@ -1,0 +1,38 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a56765016	700000	Crohn's disease (disorder)	b34000006
+a179501000006113	200000	Crohn's regional enteritis	b34000006
+a601031000006119	40000	CC - Crohn's colitis	b50440006
+a601091000006115	20000	Crohn's disease of terminal ileum (disorder)	b196977009
+a886291000006112	10000	Regional enteritis - Crohn	b34000006
+a1495442018	8000	Regional enteritis of the large bowel	b7620006
+a302941017	6000	Crohn's disease of small intestine (disorder)	b56689002
+a179571000006119	5000	Regional enteritis of the small bowel	b56689002
+a396357012	5000	Crohn's disease of large bowel (disorder)	b7620006
+a302940016	4000	Crohn's disease of ileum	b38106008
+a1222351011	4000	Crohn's disease NOS	b34000006
+a302947018	4000	Regional enteritis NOS	b34000006
+a2532958014	2000	Exacerbation of Crohn's disease of small intestine (disorder)	b414154002
+a2532950019	2000	Exacerbation of Crohn's disease of large intestine (disorder)	b414153008
+a179521000006115	1000	Crohn's disease of colon (disorder)	b50440006
+a302939018	1000	Crohn's disease of ileum (disorder)	b38106008
+a302322010	300	Crohn's disease of oral soft tissues (disorder)	b196578009
+a3316751000006117	300	Crohn's disease of colon	b50440006
+a488238014	200	Crohn's disease of rectum (disorder)	b3815005
+a3047421000006110	100	Crohns disease	b34000006
+a3113541000006111	80	Crohn's ileitis	b38106008
+a3047411000006119	80	Crohn disease	b34000006
+a4784091000006115	50	Crohn's disease of oral soft tissues	b196578009
+a2559781000006115	50	Crohn's disease of rectum	b3815005
+a497569010	30	Crohn's disease of duodenum (disorder)	b56287005
+a302937016	20	Regional enteritis of the jejunum (disorder)	b196976000
+a4785581000006112	20	Crohn disease of terminal ileum	b196977009
+a5085621000006118	10	Perianal Crohn's disease (disorder)	b235796008
+a2559801000006116	10	Crohn's proctitis	b3815005
+a4784111000006112	4	Oral Crohn's disease	b196578009
+a3047391000006119	4	CD - Crohn's disease	b34000006
+a3316811000006110	2	Crohns disease, colon	b50440006
+a3414681000006119	2	Crohn's disease of duodenum	b56287005
+a3420891000006119	2	Crohns disease, small intestine	b56689002
+a6853111000006114	1	Exacerbation of Crohn disease of large intestine	b414153008
+a6853131000006115	1	Exacerbation of Crohn disease of small intestine	b414154002
+a3113551000006113		Crohn disease of ileum	b38106008
