@@ -1,0 +1,27 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a47245201	202540	Graves' disease	b353295004
+a36888019	56698	Hashimoto's disease	b21983002
+a481188016	17999	Autoimmune thyroiditis	b21983002
+a5108351000006116	5143	Autoimmune hypothyroidism	b237519003
+a3588491000006118	2859	Autoimmune thyroiditis	b66944004
+a2849751000006113	1875	Hashimoto thyroiditis	b21983002
+a2849831000006114	957	Hashimoto's thyroiditis	b21983002
+a5108031000006113	818	Thyrotoxicosis due to Graves' disease	b237499004
+a6196461000006114	641	Graves disease	b353295004
+a510839100000611	297	Hypothyroidism due to Hashimoto's thyroiditis	b237520009
+a490987015	114	Basedow's disease	b353295004
+a5581801000006112	72	Graves' ophthalmopathy	b276177000
+a15340991000006114	22	Maternal history of Graves' disease	b1854861000000105
+a5108531000006117	9	Lymphocytic thyroiditis - autoimmune	b237536006
+a2941751000006119	7	Hyperthyroidism with Hashimoto disease	b27538003
+a5581841000006114	6	Graves eye disease	b276177000
+a558181100000611	4	Graves ophthalmopathy	b276177000
+a5108401000006112	4	Hypothyroidism due to Hashimoto thyroiditis	b237520009
+a8043251000006111	4	History of Graves' disease	b137871000119109
+a5581851000006111	3	Graves' eye disease	b276177000
+a5581861000006113	3	Ophthalmic Graves disease	b276177000
+a8043051000006119	3	Graves' disease in remission	b137421000119106
+a347792100000611	2	Graves' disease with thyrotoxic crisis	b60216004
+a5112861000006111	2	Juvenile Graves' disease	b237824009
+a5112881000006118	2	Graves' dermopathy	b237825005
+a6219761000006113	1	Self-limiting autoimmune thyroiditis with transient hyperthyroidism and/or hypothyroidism	b361124009
