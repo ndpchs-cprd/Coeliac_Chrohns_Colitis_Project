@@ -1,0 +1,15 @@
+Code	Description
+5A10.0	T1DM with coma (Ketoacidotic or Hypoglycemic)
+5A10.1	T1DM with ketoacidosis
+5A10.2	T1DM with other specified acute complication
+5A11	LADA (Latent Autoimmune Diabetes in Adults)
+5A10.Z	T1DM, unspecified
+5A10 & 5B70	T1DM with diabetic chronic kidney disease
+5A10 & 5B71	T1DM with diabetic ophthalmic complication
+5A10 & 5B72	T1DM with diabetic neurological complication
+5A10 & 5B73	T1DM with diabetic circulatory complication
+5A10 & 5B80	T1DM with diabetic ulcer of the foot
+5A10 & 5B82	T1DM with diabetic arthropathy
+5A22.0	Postprocedural diabetes mellitus
+GB51.0	Presence of insulin pump (External device)
+

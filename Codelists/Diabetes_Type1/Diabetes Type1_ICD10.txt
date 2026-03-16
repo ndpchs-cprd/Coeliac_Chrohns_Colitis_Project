@@ -1,0 +1,18 @@
+Code	Description
+E10.10	Type 1 diabetes with ketoacidosis without coma
+E10.11	Type 1 diabetes with ketoacidosis with coma
+E10.21	Type 1 diabetes with diabetic nephropathy (Kidney)
+E10.22	Type 1 diabetes with diabetic chronic kidney disease
+E10.311	Type 1 diabetes with macular edema (Eye)
+E10.319	Type 1 diabetes with unspecified diabetic retinopathy
+E10.36	Type 1 diabetes with diabetic cataract
+E10.40	Type 1 diabetes with diabetic neuropathy, unspecified (Nerve)
+E10.42	Type 1 diabetes with diabetic polyneuropathy
+E10.51	Type 1 diabetes with diabetic peripheral angiopathy
+E10.52	Type 1 diabetes with diabetic gangrene
+E10.610	Type 1 diabetes with diabetic neuropathic arthropathy (Charcot's)
+E10.621	Type 1 diabetes with foot ulcer
+E10.65	Type 1 diabetes with hyperglycemia
+E10.69	Type 1 diabetes with other specified complication
+E10.8	Type 1 diabetes with unspecified complications
+E10.9	Type 1 diabetes without complications
