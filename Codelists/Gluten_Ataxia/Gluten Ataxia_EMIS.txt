@@ -1,0 +1,8 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a317127011	39262	Ataxia	b20262006
+a399400019	30664	Cerebellar ataxia	b85102008
+a47937012	6422	Cerebral ataxia	b28634005
+a411822012	4042	O/E - ataxia	b275858008
+a297118018	879	Cerebellar ataxia associated with another disorder	b192874000
+a297112017	235	Cerebellar ataxia in diseases EC	b192874000
+a12704251000006113	83	Cerebellar ataxia associated with another disorder	b192874000

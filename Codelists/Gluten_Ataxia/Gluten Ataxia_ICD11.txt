@@ -1,0 +1,4 @@
+Code	Description
+8A03.20	Gluten ataxia
+8A03.3	Acquired ataxia
+8A03.Z	Ataxic disorders, unspecified

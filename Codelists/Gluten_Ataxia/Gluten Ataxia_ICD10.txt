@@ -1,0 +1,3 @@
+Code	Description
+G32.81	Cerebellar ataxia in diseases classified elsewhere
+R27.0	Ataxia, unspecified
