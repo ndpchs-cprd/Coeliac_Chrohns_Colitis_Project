@@ -1,0 +1,29 @@
+Code	Description
+K50.00	Crohn's disease of small intestine without complications
+K50.011	Crohn's disease of small intestine with rectal bleeding
+K50.012	Crohn's disease of small intestine with intestinal obstruction
+K50.013	Crohn's disease of small intestine with fistula
+K50.014	Crohn's disease of small intestine with abscess
+K50.018	Crohn's disease of small intestine with other complication
+K50.019	Crohn's disease of small intestine with unspecified complications
+K50.10	Crohn's disease of large intestine without complications
+K50.111	Crohn's disease of large intestine with rectal bleeding
+K50.112	Crohn's disease of large intestine with intestinal obstruction
+K50.113	Crohn's disease of large intestine with fistula
+K50.114	Crohn's disease of large intestine with abscess
+K50.118	Crohn's disease of large intestine with other complication
+K50.119	Crohn's disease of large intestine with unspecified complications
+K50.80	Crohn's disease of both small and large intestine without complications
+K50.811	Crohn's disease of both small and large intestine with rectal bleeding
+K50.812	Crohn's disease of both small and large intestine with intestinal obstruction
+K50.813	Crohn's disease of both small and large intestine with fistula
+K50.814	Crohn's disease of both small and large intestine with abscess
+K50.818	Crohn's disease of both small and large intestine with other complication
+K50.819	Crohn's disease of both small and large intestine with unspecified complications
+K50.90	Crohn's disease, unspecified, without complications
+K50.911	Crohn's disease, unspecified, with rectal bleeding
+K50.912	Crohn's disease, unspecified, with intestinal obstruction
+K50.913	Crohn's disease, unspecified, with fistula
+K50.914	Crohn's disease, unspecified, with abscess
+K50.918	Crohn's disease, unspecified, with other complication
+K50.919	Crohn's disease, unspecified, with unspecified complications

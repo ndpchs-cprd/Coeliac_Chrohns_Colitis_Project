@@ -1,0 +1,10 @@
+Code	Description
+DD70.0	Crohn disease of small intestine
+DD70.1	Crohn disease of large intestine
+DD70.2	Crohn disease of both small and large intestine
+DD70.3	Crohn disease of upper gastrointestinal tract
+DD70.4	Metastatic Crohn disease
+DD70.5	Crohn disease of other specified sites
+DD70.6	Crohn disease of anastomotic sites
+DD70.Y	Crohn disease of other specified site
+DD70.Z	Crohn disease, site unspecified
