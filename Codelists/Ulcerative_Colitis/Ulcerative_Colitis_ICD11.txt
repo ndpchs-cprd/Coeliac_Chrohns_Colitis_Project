@@ -1,0 +1,8 @@
+Code	Description
+DD71.0	Ulcerative pancolitis (Entire colon)
+DD71.1	Left-sided ulcerative colitis (Up to splenic flexure)
+DD71.2	Ulcerative proctosigmoiditis (Rectum and sigmoid)
+DD71.3	Ulcerative proctitis (Rectum only)
+DD71.4	Inflammatory polyps of colon
+DD71.Y	Other specified ulcerative colitis
+DD71.Z	Ulcerative colitis, unspecified

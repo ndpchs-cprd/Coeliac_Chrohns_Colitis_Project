@@ -1,0 +1,18 @@
+Code	Description
+K51.00	Ulcerative (chronic) pancolitis without complications
+K51.011	Ulcerative (chronic) pancolitis with rectal bleeding
+K51.012	Ulcerative (chronic) pancolitis with intestinal obstruction
+K51.013	Ulcerative (chronic) pancolitis with fistula
+K51.014	Ulcerative (chronic) pancolitis with abscess
+K51.018	Ulcerative (chronic) pancolitis with other complication
+K51.20	Ulcerative (chronic) proctitis without complications
+K51.211	Ulcerative (chronic) proctitis with rectal bleeding
+K51.30	Ulcerative (chronic) rectosigmoiditis without complications
+K51.311	Ulcerative (chronic) rectosigmoiditis with rectal bleeding
+K51.40	Inflammatory polyps of colon without complications
+K51.50	Left-sided colitis without complications
+K51.511	Left-sided colitis with rectal bleeding
+K51.80	Other ulcerative colitis without complications
+K51.811	Other ulcerative colitis with rectal bleeding
+K51.90	Ulcerative colitis, unspecified, without complications
+K51.911	Ulcerative colitis, unspecified, with rectal bleeding
