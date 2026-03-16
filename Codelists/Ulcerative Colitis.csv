@@ -1,0 +1,21 @@
+﻿med_code_id,observations,emis_description,snomed_ct_concept_id
+a107644019,900000,Ulcerative colitis (disorder),b64766004
+a435370011,30000,Ulcerative proctocolitis,b295046003
+a496249010,30000,Chronic ulcerative proctitis (disorder),b52231000
+a2532953017,8000,Exacerbation of ulcerative colitis (disorder),b414156000
+a2872721013,8000,Ulcerative pancolitis (disorder),b444548001
+a85891000006115,4000,Ulcerative enterocolitis (disorder),b235714007
+a303762015,2000,[X]Other ulcerative colitis,b64766004
+a302956014,2000,Ulcerative proctocolitis (disorder),b295046003
+a1816421000006112,500,Left sided ulcerative colitis (disorder),b445243001
+a85901000006116,300,Ulcerative (chronic) ileocolitis,b196987008
+a302953018,200,Ulcerative ileocolitis (disorder),b196987008
+a3346671000006113,200,Chronic ulcerative proctitis,b52231000
+a3351341000006118,60,Ulcerative colitis confined to rectum and sigmoid colon,b52506002
+a4411741000006119,6,Acute ulcerative colitis (disorder),b128600008
+a2726621000006117,5,Severe chronic ulcerative colitis (disorder),b14311001
+a7260561000006112,3,Chronic ulcerative pancolitis (disorder),b442159003
+a3346691000006114,3,Ulcerative colitis confined to rectum,b52231000
+a3553391000006113,3,UC - Ulcerative colitis,b64766004
+a3774141000006118,1,Mild chronic ulcerative colitis (disorder),b78324009
+a7294371000006118,1,Chronic ulcerative colitis (disorder),b444546002
