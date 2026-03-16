@@ -1,0 +1,5 @@
+MedCodeId	Observations	Term	SnomedCTConceptId
+a32563019	26580	Collagenous colitis	b19311003
+a52549017	13415	Lymphocytic colitis	b31437008
+a353418019	23505	Microscopic colitis	b235753003
+a2806491000006113	5	CC - Collagenous colitis	b19311003
