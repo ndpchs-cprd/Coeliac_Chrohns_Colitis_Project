@@ -1,0 +1,4 @@
+Code	Description
+DA95.00	Non-refractory coeliac disease
+DA95.01	Refractory coeliac disease
+DA95.0Z	Coeliac disease, unspecified

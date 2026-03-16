@@ -1,0 +1,2 @@
+Code	Description	Notes
+K90.0	Celiac disease	Includes: Gluten-sensitive enteropathy, Idiopathic steatorrhoea, Nontropical sprue.
