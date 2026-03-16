@@ -1,0 +1,9 @@
+Code	Description
+8A80.0	Migraine without aura
+8A80.1	Migraine with aura
+8A80.2	Chronic migraine
+8A80.3	Complications of migraine (e.g., Status migrainosus, Migrainous infarction)
+8A80.4	Retinal migraine
+8A80.5	Periodic syndromes associated with migraine (e.g., Cyclical vomiting, Abdominal migraine)
+8A80.Y	Other specified migraine
+8A80.Z	Migraine, unspecified

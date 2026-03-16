@@ -1,0 +1,17 @@
+Code	Description
+G43.001	Migraine without aura, not intractable, with status migrainosus
+G43.009	Migraine without aura, not intractable, without status migrainosus
+G43.011	Migraine without aura, intractable, with status migrainosus
+G43.019	Migraine without aura, intractable, without status migrainosus
+G43.101	Migraine with aura, not intractable, with status migrainosus
+G43.109	Migraine with aura, not intractable, without status migrainosus
+G43.111	Migraine with aura, intractable, with status migrainosus
+G43.119	Migraine with aura, intractable, without status migrainosus
+G43.409	Hemiplegic migraine, not intractable, without status migrainosus
+G43.509	Persistent migraine aura without cerebral infarction
+G43.609	Chronic migraine without aura, not intractable
+G43.709	Chronic migraine with aura, not intractable
+G43.809	Other migraine, not intractable, without status migrainosus
+G43.909	Migraine, unspecified, not intractable, without status migrainosus
+G43.A0	Cyclical vomiting syndrome, in migraine
+G43.B0	Ophthalmoplegic migraine
