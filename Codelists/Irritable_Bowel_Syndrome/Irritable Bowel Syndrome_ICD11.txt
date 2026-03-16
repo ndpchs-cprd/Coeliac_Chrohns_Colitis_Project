@@ -1,0 +1,6 @@
+Code	Description
+DD91.00	Irritable bowel syndrome, diarrhea predominant
+DD91.01	Irritable bowel syndrome, constipation predominant
+DD91.02	Irritable bowel syndrome, mixed stool pattern
+DD91.03	Irritable bowel syndrome, non-specific stool pattern
+DD91.04	Post-infection irritable bowel syndrome
