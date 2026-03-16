@@ -1,0 +1,4 @@
+Code	Description
+DD72	Indeterminate colitis
+DD72.Z	Indeterminate colitis, unspecified
+DD72&XA1B13	Indeterminate colitis of large intestine (clustered)

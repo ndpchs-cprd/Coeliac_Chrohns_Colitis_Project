@@ -1,0 +1,6 @@
+Code	Description
+K52.3	Indeterminate colitis
+K52.30	Indeterminate pancolitis
+K52.31	Left-sided indeterminate colitis
+K52.32	Indeterminate colitis of rectosigmoid
+K52.38	Other indeterminate colitis
